@@ -15,7 +15,7 @@ export default function SignUpPage() {
             type: "text",
             required: true,
           },
-          {
+          { 
             name: "last_name",
             label: "Last Name",
             type: "text",
